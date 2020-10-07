@@ -4,7 +4,7 @@
   "description": "A plugin to read the 4 Port MCS Analog-in addon Modul",
   "license": "MIT",
   "homepage": "https://github.com/Thomas-GeDaD/signalk_raspberry_mcs_analogin /blob/master/README.md",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "keywords": [
     "signalk-node-server-plugin"
