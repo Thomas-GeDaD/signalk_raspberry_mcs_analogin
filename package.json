@@ -1,0 +1,22 @@
+{
+  "name": "signalk-raspberry-mcs Analogin",
+  "author": "Thomas Gersmann / GeDaD",
+  "description": "A plugin to read the 4 Port MCS Analog-in addon Modul",
+  "license": "MIT",
+  "homepage": "https://github.com/Thomas-GeDaD/signalk_raspberry_mcs_analogin /blob/master/README.md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomas-GeDaD/signalk_raspberry_mcs_analogin .git"
+  },
+  "bugs": {
+    "url": "https://github.com/Thomas-GeDaD/signalk_raspberry_mcs_analogin /issues"
+  },
+  "dependencies": {
+    "mcp3424": "0.0.2"
+  }
+}
